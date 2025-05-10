@@ -1,3 +1,4 @@
+# обявление функции
 def calculate_taxes(prices: list[float], tax_rate: float) -> list[float]:
     """Функция вычисляет стоимость товаров с учётом налога."""
 
